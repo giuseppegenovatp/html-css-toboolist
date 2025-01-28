@@ -11,12 +11,14 @@ body {
     font-family: Arial;
 }
 
-.bg-color-white {
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
     background-color: #ffffff;
 }
 
 
-/* HEADER STYLE */
+/* START HEADER STYLE */
 
 .container_logo {
     padding: 12px 20px ;
@@ -28,3 +30,4 @@ body {
     font-weight: bold;
 }
 
+/* END HEADER STYLE */
