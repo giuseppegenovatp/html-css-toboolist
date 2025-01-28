@@ -12,22 +12,57 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 960px;
     margin: 0 auto;
     background-color: #ffffff;
 }
 
-
 /* START HEADER STYLE */
 
 .container_logo {
-    padding: 12px 20px ;
+    padding: 12px 20px;
+    background-color: #ffffff;
 }
 
 .container_logo h1 {
     display: inline;
     font-size: 50px;
-    font-weight: bold;
+}
+
+header {
+    margin-bottom: 50px;
 }
 
 /* END HEADER STYLE */
+
+
+
+/**************** START "MENU PER CREARE UNA TODOLIST" ******************/
+.btn {
+    display: inline-block;
+}
+
+.add_text_style {
+    background-color: #14aaf5;
+    color: #ffffff;
+    border-radius: 10px;
+    padding:10px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+
+.add_section_style {
+    background-color:#ffffff;
+    color: #c4cbd0;
+    border-radius: 10px;
+    border:1px solid #c4cbd0;
+    padding:9px;
+    margin-left: 5px;
+}
+
+hr {
+    border-top: 3px solid rgba(0, 0, 0, 0);
+}
+
+/**************** FINE "MENU PER CREARE UNA TODOLIST" ******************/
