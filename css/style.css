@@ -103,8 +103,16 @@ hr {
     display: inline-block;
 }
 
-.target_list_azure {
-    background-color: #14aaf5;
+.list_mb {
+    margin-bottom: 20px;
+}
+/**************** FINE "LISTE" ******************/
+
+
+
+/****** TARGET STYLE ******/
+
+.target_typography {
     font-size: 10px;
     padding: 5px;
     border-radius: 10px;
@@ -112,7 +120,27 @@ hr {
     font-weight: bold;
 }
 
-.list_mb {
-    margin-bottom: 20px;
+.target_color_editorial {
+    background-color: #14aaf5;
 }
-/**************** FINE "LISTE" ******************/
+
+.target_color_qgoals {
+    background-color: #ab5de6; 
+}
+
+.target_color_recruting {
+    background-color: #2cc6ab; 
+}
+
+.target_color_mobile {
+    background-color: #ff9b00; 
+}
+
+.target_color_sales {
+    background-color: #a3d116; 
+}
+
+.target_color_website {
+    background-color: #ec4a9d; 
+}
+
